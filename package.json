@@ -6,7 +6,7 @@
   "dependencies": {
     "binary-search-bounds": "^2.0.4",
     "nanoassert": "^2.0.0",
-    "secure-sample": "^2.0.0",
+    "secure-sample": "github:okdistribute/secure-sample#browser",
     "secure-shuffle": "^2.0.0"
   },
   "devDependencies": {},
